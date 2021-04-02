@@ -1,1 +1,4 @@
-/notebooks/data/*
+**/data
+**/.ipynb_checkpoints
+**/.Rhistory
+**/__pycache__
